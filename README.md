@@ -1,7 +1,3 @@
-### Hi there 👋
-
-**nihal-kutti/nihal-kutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Full-time Software Developer<br>Part-time Photographer & Designer
 
